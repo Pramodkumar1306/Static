@@ -1,11 +1,9 @@
-import React from 'react';
-import StaticDemo from './components/StaticDemo';
+// import React from 'react';
+import MainPage from './components/MainPage';
 
 function App() {
   return (
-    <div className="bg-gray-100">
-      <StaticDemo />
-    </div>
+    <MainPage />
   );
 }
 
